@@ -8,15 +8,15 @@ http://serene-headland-22338.herokuapp.com/
 
 ## Screenshots
 
-<img src="./screenshot1.JPG" alt="Home Page">
+<img src="./Screenshots/screenshot1.JPG" alt="Home Page">
 
-<img src="./screenshot2.JPG" alt="Registration Page">
+<img src="./Screenshots/screenshot2.JPG" alt="Registration Page">
 
-<img src="./screenshot3.JPG" alt="Login Page">
+<img src="./Screenshots/screenshot3.JPG" alt="Login Page">
 
-<img src="./screenshot4.JPG" alt="Forgot Password Reset Page">
+<img src="./Screenshots/screenshot4.JPG" alt="Forgot Password Reset Page">
 
-<img src="./screenshot5.JPG" alt="Dashboard Page">
+<img src="./Screenshots/screenshot5.JPG" alt="Dashboard Page">
 
 ## Technologies Used
 
